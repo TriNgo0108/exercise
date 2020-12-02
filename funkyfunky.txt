@@ -1,8 +1,4 @@
 This is funky funky! And so is this!
 a new line of funky funky and so on
 other new line of funky funky
-<<<<<<< HEAD
 add others line of funky funky in master
-=======
-add others line of funky funky in master
->>>>>>> new
